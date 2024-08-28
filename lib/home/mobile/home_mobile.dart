@@ -1,17 +1,7 @@
-import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:genswap/home/desktop/components/textfeild.dart';
+import 'package:genswap/controller.dart';
 import 'package:get/get.dart';
-import 'package:get/get_state_manager/get_state_manager.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:rounded_loading_button/rounded_loading_button.dart';
-import '../desktop/components/appbar.dart';
-import '../../constants/constants.dart';
-import '../../controller.dart';
-import '../desktop/components/result.dart';
-import '../desktop/components/copyright.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-
 import 'components/appbar.dart';
 import 'components/copyright_mobile.dart';
 import 'components/textfeild.dart';
@@ -21,8 +11,6 @@ class HomePageMobile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    MainController mainController = Get.put(MainController());
-
     return Builder(builder: (context) {
       return GetBuilder<MainController>(builder: (_) {
         return Scaffold(
