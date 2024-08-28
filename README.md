@@ -15,8 +15,12 @@ Ready to speak everyone's language? Join us today and start translating the way 
     [![GitHub issues](https://img.shields.io/github/issues/ErfanRht/GenSwap?style=social)](https://github.com/ErfanRht/GenSwap/issues) 
     [![GitHub license](https://img.shields.io/github/license/ErfanRht/GenSwap?style=social)](https://github.com/ErfanRht/GenSwap/blob/master/LICENSE) 
     
-<p align="center"><a href="https://github.com/ErfanRht/GenSwap/"><img src="./screenshots/mockups/GenSwap_mockup2.jpg" width="100%"/></a>
-      
+## Web App
+GenSwap is available as a web application! You can access all the features of our platform directly from your browser. No downloads required. Simply visit:
+**[GenSwap Web App](https://erfanrht.github.io/GenSwap/webapp/)**
+
+Start translating generational language in an instant, whether you're on desktop or mobile.
+
 ## Getting Started
 1. If you don't have Flutter SDK installed; Please visit the official [Flutter](https://docs.flutter.dev/get-started/install) website.
 2. Fetch the latest source code from the master branch.
@@ -49,7 +53,10 @@ final String apiKey = "your_api_key_here";
 flutter pub get
 flutter run
 ```
-    
+
+## AI-driven
+GenSwap leverages the cutting-edge capabilities of Google AI Studio (Gemini AI) to deliver accurate and contextual generational language translations.
+
 ## Contribute
 If you have an issue or found a bug, please raise a GitHub issue [here](https://github.com/ErfanRht/GenSwap/issues). Pull requests are also welcome.
     
