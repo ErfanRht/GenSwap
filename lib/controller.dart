@@ -1,10 +1,7 @@
-import 'dart:io';
-
 import 'package:flutter/material.dart';
-import 'package:genswap/.api.dart';
+import 'package:genswap/constants/apikey.dart';
 import 'package:genswap/constants/constants.dart';
 import 'package:get/get.dart';
-import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:rounded_loading_button/rounded_loading_button.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 
