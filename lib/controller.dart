@@ -1,6 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:genswap/.api.dart';
 import 'package:genswap/constants/constants.dart';
 import 'package:get/get.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
@@ -28,8 +29,6 @@ class MainController extends GetxController {
 
 Future<void> fetchResult() async {
   MainController mainController = Get.put(MainController());
-  const apiKey = 'AIzaSyAioJV_pwAVXLWXmoi0mnx99H3ElASkmzM';
-
   final model = GenerativeModel(model: 'gemini-1.5-flash', apiKey: apiKey);
   final content = [
     Content.text(
