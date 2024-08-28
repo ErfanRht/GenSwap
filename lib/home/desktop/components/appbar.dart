@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'dart:html' as html;
 
-class AppBarWidget extends StatelessWidget {
-  const AppBarWidget({super.key});
+class AppBarWidgetDesktop extends StatelessWidget {
+  const AppBarWidgetDesktop({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -11,33 +12,38 @@ class AppBarWidget extends StatelessWidget {
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
-          RichText(
-            text: TextSpan(
-              text: 'Gen',
-              style: GoogleFonts.roboto(
-                textStyle: const TextStyle(
-                  fontSize: 35,
-                  fontWeight: FontWeight.bold,
-                  color: Color(0xff132d4e),
-                ),
-              ),
-              children: <TextSpan>[
-                TextSpan(
-                  text: 'Swap',
-                  style: GoogleFonts.roboto(
-                    textStyle: const TextStyle(
-                      color: Color(0xffE11A38),
-                      fontWeight: FontWeight.bold,
-                      fontSize: 35,
-                    ),
+          InkWell(
+            onTap: () {
+              html.window.open('https://ErfanRht.GitHub.IO/GenSwap/', '_blank');
+            },
+            child: RichText(
+              text: TextSpan(
+                text: 'Gen',
+                style: GoogleFonts.roboto(
+                  textStyle: const TextStyle(
+                    fontSize: 35,
+                    fontWeight: FontWeight.bold,
+                    color: Color(0xff132d4e),
                   ),
-                )
-              ],
+                ),
+                children: <TextSpan>[
+                  TextSpan(
+                    text: 'Swap',
+                    style: GoogleFonts.roboto(
+                      textStyle: const TextStyle(
+                        color: Color(0xffE11A38),
+                        fontWeight: FontWeight.bold,
+                        fontSize: 35,
+                      ),
+                    ),
+                  )
+                ],
+              ),
             ),
           ),
           Row(
             children: [
-              GestureDetector(
+              InkWell(
                 child: Container(
                     height: 50,
                     width: 150,
@@ -57,11 +63,19 @@ class AppBarWidget extends StatelessWidget {
                         ),
                       ),
                     )),
+                onTap: () {
+                  html.window.open('https://ErfanRht.GitHub.IO/', '_blank');
+                },
               ),
               const SizedBox(
                 width: 20,
               ),
-              GestureDetector(
+              InkWell(
+                onTap: () {
+                  html.window.open(
+                      'https://www.careerplanner.com/career-articles/generations.cfm',
+                      '_blank');
+                },
                 child: Container(
                     height: 50,
                     width: 200,

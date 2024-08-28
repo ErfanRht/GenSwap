@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:genswap/home.dart';
+import 'package:genswap/home/home.dart';
 
 void main() {
   runApp(const GenSwap());
