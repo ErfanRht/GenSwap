@@ -8,12 +8,6 @@ Whether you're trying to decode the latest Gen Z lingo or make your message reso
       
 Ready to speak everyone's language? Join us today and start translating the way the generations communicate.
     
-</p>
-      <p align="left">
-      Do you like movies? Try GenSwap <a href="https://github.com/ErfanRht/GenSwap/releases/">here</a>, or if you are a developer click <a href="https://github.com/ErfanRht/GenSwap#getting-started">here</a>.
-      </p>
-    </p>
-    
 [![GitHub release (latest)](https://img.shields.io/github/v/release/ErfanRht/GenSwap)](https://github.com/ErfanRht/GenSwap/releases)
     ![GitHub repo size](https://img.shields.io/github/repo-size/ErfanRht/GenSwap)
     [![GitHub stars](https://img.shields.io/github/stars/ErfanRht/GenSwap?style=social)](https://github.com/ErfanRht/GenSwap/stargazers) 
