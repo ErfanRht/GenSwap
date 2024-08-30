@@ -18,7 +18,6 @@ class HomePageDesktop extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     MainController mainController = Get.put(MainController());
-
     return Builder(builder: (context) {
       return GetBuilder<MainController>(builder: (_) {
         return Scaffold(
