@@ -14,7 +14,9 @@ Ready to speak everyone's language? Join us today and start translating the way 
     [![GitHub forks](https://img.shields.io/github/forks/ErfanRht/GenSwap?style=social)](https://github.com/ErfanRht/GenSwap/network/members) 
     [![GitHub issues](https://img.shields.io/github/issues/ErfanRht/GenSwap?style=social)](https://github.com/ErfanRht/GenSwap/issues) 
     [![GitHub license](https://img.shields.io/github/license/ErfanRht/GenSwap?style=social)](https://github.com/ErfanRht/GenSwap/blob/master/LICENSE) 
-    
+
+<p align="center"><a href="https://github.com/ErfanRht/GenSwap/"><img src="./screenshots/showcase.png" width="100%"/></a>
+
 ## Web App
 GenSwap is available as a web application! You can access all the features of our platform directly from your browser. No downloads required. Simply visit:
 **[GenSwap Web App](https://erfanrht.github.io/GenSwap/webapp/)**
