@@ -1,1 +1,1 @@
-.webapp/** linguist-vendored
+*.js linguist-detectable=false
