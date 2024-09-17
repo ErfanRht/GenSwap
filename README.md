@@ -35,7 +35,7 @@ git clone https://github.com/ErfanRht/GenSwap.git
     
 <ul>
     
-GenSwap uses the Gemini AI to fetch the needed data, so before using it you have to create an account on [Gemini AI website](https://gemini.google.com/), then you can get a free api key in your profile section and apply it to the app by the below steps.
+GenSwap uses the Gemini AI to fetch the needed data, so before using it you have to create an account on [Gemini AI website](https://ai.google.dev/gemini-api/docs/api-key), then you can get a free api key in your profile section and apply it to the app by the below steps.
     
 - go to `lib/.api.dart`
 - you will see the code like this
@@ -57,7 +57,7 @@ flutter run
 ```
 
 ## AI-driven
-GenSwap leverages the cutting-edge capabilities of Google AI Studio (Gemini AI) to deliver accurate and contextual generational language translations.
+GenSwap leverages the cutting-edge capabilities of [Google AI Studio](https://ai.google.dev/aistudio?gad_source=1&gclid=CjwKCAjw0aS3BhA3EiwAKaD2ZVxZJ_WnrKckI2v7-fQTah__nlGhALWJdshquKIKhdzCB2r-RksMZxoCOkMQAvD_BwE) to deliver accurate and contextual generational language translations.
 
 ## Contribute
 
