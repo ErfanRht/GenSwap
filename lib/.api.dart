@@ -1,1 +1,1 @@
-final String apiKey = "XXXXXXXXXX";
+const List<String> apiKey = ["XXXXXXXXXX"];
