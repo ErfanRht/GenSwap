@@ -1,14 +1,11 @@
-import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:genswap/constants/constants.dart';
 import 'package:genswap/controller.dart';
 import 'package:genswap/home/desktop/components/result.dart';
-import 'package:genswap/home/desktop/components/textfeild.dart';
 import 'package:get/get.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:rounded_loading_button/rounded_loading_button.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:typewritertext/typewritertext.dart';
 
 class HomePageTextFeild extends StatelessWidget {
