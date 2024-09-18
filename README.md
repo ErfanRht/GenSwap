@@ -40,11 +40,11 @@ GenSwap uses the Gemini AI to fetch the needed data, so before using it you have
 - go to `lib/.api.dart`
 - you will see the code like this
 ```dart
-final String apiKey = "XXXXXXXXXX";
+const List<String> apiKey = ["XXXXXXXXXX"];
 ```
 - replace the all `xx..` to your own api key, like this
 ```dart
-final String apiKey = "your_api_key_here";
+const List<String> apiKey = ["your_api_key_here"];
 ```
 - It's done!
 </ul>
