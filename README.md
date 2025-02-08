@@ -23,6 +23,23 @@ GenSwap is available as a web application! You can access all the features of ou
 
 Start translating generational language in an instant, whether you're on desktop or mobile.
 
+## Screenrecords
+
+<p float="center">
+  <img src="https://github.com/ErfanRht/GenSwap/blob/master/screenshots/ezgif-6da5f47534c7ed.gif?raw=true" align="center" width="75%" />
+  &ensp;
+</p>
+
+## Screenshots
+
+<div align="center" style="width:100%;display:flex;justify-content:space-between;">
+<img width="75%" src="https://github.com/ErfanRht/GenSwap/blob/master/screenshots/Screenshot 2025-02-08 160113.png" align="center" alt="screenshot" />
+</div>
+<p> </p>
+<div align="center" style="width:100%;display:flex;justify-content:space-between;">
+<img width="75%" src="https://github.com/ErfanRht/GenSwap/blob/master/screenshots/Screenshot 2025-02-08 160148.png" align="center" alt="screenshot" />
+</div>
+
 ## Getting Started
 1. If you don't have Flutter SDK installed; Please visit the official [Flutter](https://docs.flutter.dev/get-started/install) website.
 2. Fetch the latest source code from the master branch.
