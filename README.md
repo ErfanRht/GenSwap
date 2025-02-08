@@ -32,9 +32,9 @@ Start translating generational language in an instant, whether you're on desktop
 
 ## Screenshots
 
-<div align="center" style="width:100%;display:flex;justify-content:space-between;">
-<img width="50%" src="https://github.com/ErfanRht/GenSwap/blob/master/screenshots/Screenshot 2025-02-08 160113.png" align="center" alt="screenshot" />
- <img width="50%" src="https://github.com/ErfanRht/GenSwap/blob/master/screenshots/Screenshot 2025-02-08 160148.png" align="center" alt="screenshot" />
+<div align="center" style="width:50%;display:flex;justify-content:space-between;">
+<img width="48%" src="https://github.com/ErfanRht/GenSwap/blob/master/screenshots/Screenshot 2025-02-08 160113.png" align="center" alt="screenshot" />
+ <img width="48%" src="https://github.com/ErfanRht/GenSwap/blob/master/screenshots/Screenshot 2025-02-08 160148.png" align="center" alt="screenshot" />
 </div>
 
 ## Getting Started
