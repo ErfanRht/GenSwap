@@ -26,7 +26,7 @@ Start translating generational language in an instant, whether you're on desktop
 ## Screenrecords
 
 <p float="center">
-  <img src="https://github.com/ErfanRht/GenSwap/blob/master/screenshots/ezgif-6da5f47534c7ed.gif?raw=true" align="center" width="82.5%" />
+  <img src="https://github.com/ErfanRht/GenSwap/blob/master/screenshots/ezgif-6da5f47534c7ed.gif?raw=true" align="center" width="100%" />
   &ensp;
 </p>
 
